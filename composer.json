@@ -1,0 +1,5 @@
+{
+    "require": {
+        "rakuten-ws/rws-php-sdk": "1.*"
+    }
+}
